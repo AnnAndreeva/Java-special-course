@@ -1,0 +1,53 @@
+5
+andreeva.LR_4.GamesCollection
+Сборник лучших игр 2000-2010
+3
+3
+Half-life 2
+21
+Oblivion
+17
+Assasins Creed 2
+20
+andreeva.LR_4.GamesSeries
+Gothic Series
+4
+2
+Gothic
+11
+Gothic 2
+14
+Gothic 3
+15
+Arcania
+17
+andreeva.LR_4.GamesSeries
+The Witcher Series
+3
+5
+The Witcher
+12
+The Witcher 2
+15
+The Witcher 3
+25
+andreeva.LR_4.GamesCollection
+Сборник старых рпг с длинным прологом
+3
+5
+The Witcher
+12
+TitanQuest 2
+18
+Dragon Ages: Originals
+20
+andreeva.LR_4.GamesSeries
+The Elder Scrolls Series
+3
+3
+Morrowind
+15
+Oblivion
+17
+Skyrim
+18
